@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1444f393ebcb4a1449da004f2b9414ec
+timeCreated: 1444034330
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - circlespawn: {fileID: 103352, guid: 1ed678b16b6cf63448bacf71ef25447c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
