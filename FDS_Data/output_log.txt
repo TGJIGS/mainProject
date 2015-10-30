@@ -1,41 +1,28 @@
-Mono path[0] = 'C:/UnityProjects/tg/FDS_Data/Managed'
-Mono path[1] = 'C:/UnityProjects/tg/FDS_Data/Mono'
-Mono config path = 'C:/UnityProjects/tg/FDS_Data/Mono/etc'
-PlayerConnection initialized from C:/UnityProjects/tg/FDS_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55394
-Multi-casting "[IP] 192.168.0.3 [Port] 55394 [Flags] 2 [Guid] 2039458455 [EditorId] 3353587024 [Version] 1048832 [Id] WindowsPlayer(jongwoo) [Debug] 0" to [225.0.0.222:54997]...
-PlayerConnection already initialized - listening to [192.168.0.3:55394]
+Mono path[0] = 'C:/Users/Geon/Documents/GitHub/mainProject/FDS_Data/Managed'
+Mono path[1] = 'C:/Users/Geon/Documents/GitHub/mainProject/FDS_Data/Mono'
+Mono config path = 'C:/Users/Geon/Documents/GitHub/mainProject/FDS_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Geon/Documents/GitHub/mainProject/FDS_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55126
+Multi-casting "[IP] 192.168.0.6 [Port] 55126 [Flags] 2 [Guid] 3470555258 [EditorId] 2403914059 [Version] 1048832 [Id] WindowsPlayer(awesome) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.6:55126]
 Initialize engine version: 5.2.0f3 (e7947df39b5c)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 970M       (ID=0x13d8)
-    Vendor:   NVIDIA
-    VRAM:     2960 MB
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\UnityProjects\tg\FDS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\UnityProjects\tg\FDS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.123 seconds
+Platform assembly: C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Geon\Documents\GitHub\mainProject\FDS_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.045 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-Platform assembly: C:\UnityProjects\tg\FDS_Data\Managed\System.dll (this message is harmless)
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: bec -> priority: 1 
-  Thread -> id: 119c -> priority: 1 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.262582 ms
-System memory in use before: 46.0 MB.
-System memory in use after: 46.0 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 205.
-Total: 0.223432 ms (FindLiveObjects: 0.012237 ms CreateObjectMapping: 0.011842 ms MarkObjects: 0.192641 ms  DeleteObjects: 0.005921 ms)
-
