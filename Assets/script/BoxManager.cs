@@ -7,9 +7,10 @@ public class BoxManager : MonoBehaviour {
     public int poskey = 0;
     Vector2 posvec = new Vector2 (0,0);
     public float maxtime = 8;
-    float timetemp = 0;
+    static float timetemp = 0;
     public float timeCounter = 0;
     public Text mytxt = null;
+
 	// Use this for initialization
 	void Start () {
         maxtime *= 60;
